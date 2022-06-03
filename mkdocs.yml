@@ -5,13 +5,13 @@
 
 # 测试内容 ……
 
-site_name: 游戏和谐Wiki
-site_url: https://ggame.gledos.science/
-site_description: >-
-  这里是收集许多的和谐游戏的百科，正在持续收录中。
+site_name: metadata title test
+# site_url: https://ggame.gledos.science/
+# site_description: >-
+#   这里是收集许多的和谐游戏的百科，正在持续收录中。
 
-repo_name: gledos/ggame
-repo_url: https://github.com/gledos/ggame
+repo_name: gledos/test-metadata
+repo_url: https://github.com/test-metadata
 
 theme:
   favicon: favicon.png
