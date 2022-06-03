@@ -1,0 +1,9 @@
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-exclude
+mkdocs-abs-rel-plugin
+mkdocs-roamlinks-plugin
+mkdocs-redirects
+pymdown-extensions
+jieba
+mkdocs-exclude-search
